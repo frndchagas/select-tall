@@ -53,8 +53,8 @@ A step by step list of commands / guide that informs how to install an instance 
 
 ### Tailwindcss Plugins
 
--   [Forms](https://tailwindcss.com/docs/forms)
--   [Scrollbar](https://tailwindcss.com/docs/scrollbar)
+-   [Forms](https://github.com/tailwindlabs/tailwindcss-forms)
+-   [Scrollbar](https://github.com/adoxography/tailwind-scrollbar)
 
 ### Font
 
