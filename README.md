@@ -1,4 +1,4 @@
-<p align="center" style="font-weight: 700"> Select country phone code using TALL stack</p>
+## Select country phone code using TALL stack
 
 ## About
 
@@ -11,7 +11,7 @@ Example of using TALL stack to select country phone code.
 ## GIF Example
 
 <p align="center">
-    <img src="./public/example.gif" alt="example" width="600"/>
+    <img src="./public/example.gif" alt="example" width="1000"/>
 </p>
 
 ## Installation
@@ -34,15 +34,15 @@ A step by step list of commands / guide that informs how to install an instance 
 
 -   Install npm dependencies
 
-´$ npm install`
+`$ npm install`
 
 -   Run npm
 
-´$ npm run watch`
+`$ npm run watch`
 
 -   Run your application
 
-´$ php artisan serve`
+`$ php artisan serve`
 
 ## Framework and Plugins
 
