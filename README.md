@@ -20,7 +20,7 @@ A step by step list of commands / guide that informs how to install an instance 
 
 -   Clone this repository
 
-´$ git clone https://github.com/frndchagas/select-tall.git´
+`$ git clone https://github.com/frndchagas/select-tall.git`
 
 -   Install composer dependencies
 
