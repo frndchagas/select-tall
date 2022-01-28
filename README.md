@@ -10,7 +10,9 @@ Example of using TALL stack to select country phone code.
 
 ## GIF Example
 
-![alt text](https://github.com/frndchagas/select-tall/blob/master/public/example.gif "Demo Example" =600x300)
+<p align="center">
+    <img src="./public/example.gif" alt="example" width="600"/>
+</p>
 
 ## Installation
 
@@ -47,7 +49,7 @@ A step by step list of commands / guide that informs how to install an instance 
 -   [Laravel](https://laravel.com)
 -   [Livewire](https://laravel-livewire.com)
 -   [Alpinejs](https://alpinejs.dev/)
--   [Tailwindcss] (https://tailwindcss.com)
+-   [Tailwindcss](https://tailwindcss.com/)
 
 ### Tailwindcss Plugins
 
